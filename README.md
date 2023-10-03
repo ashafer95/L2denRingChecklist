@@ -1,1 +1,49 @@
-# L2denRingChecklist
+View the raw text of this file and copy and paste it here: https://hackmd.io/new
+
+## Limgrave
+- [] Nomadic warriors cookbook 1: kale
+- [] Nomadic warriors cookbook 2: kale
+- [] Nomadic warriors cookbook 3: saintsbridge merchant
+- [] Nomadic warriors cookbook 4: Mistwood Outskirts
+- [] Nomadic warriors cookbook 5: merchant by fort haight
+- [] Nomadic warriors cookbook 6: fort haight
+- [] Nomadic warriors cookbook 7: bridge next to stormveil by finger reader crone
+- [] Armorers cookbook 1: lake agheel north (kaiden encampment)
+- [] Armorers cookbook 2: coastal cave merchant
+- [] Armorers cookbook 3: fort haight merchant
+- [] Missionary’s cookbook 1: kale
+- [] Missionary’s cookbook 2: patches
+- [] Fevor’s cookbook 1: by Kenneth Haight
+- [] Cracked pot: kale x3
+- [] Cracked pot: saintsbridge merchant
+- [] Cracked pot: groveside cave
+- [] Royal house scroll: agheel lake south (SE enemy camp)
+- [] Assassin’s prayerbook: Roundtable hold
+- [] Memory stone: twinmaide husks in roundtable hold
+- [] Golden seed: stormhill
+- [] Golden seed: roderika
+- [] Golden seed: fort haight
+- [] Golden seed: kenneth haight (kill)
+- [] Golden seed: fringefolk hero’s grave
+- [] Sacred tear: third church of marika
+- [] Agheels flame: kill agheel
+- [] Aspects of the crucible tail: crucible knight (stormhill evergaol)
+- [] Crimson Crystal Tear: third church of marika
+- [] Greenspill Crystal Tear: Mistwood minor erdtree
+- [] Spiked cracked Tear: Mistwood minor erdtree
+- [] Strenght-knot Crystal Tear: northeast of stormhill shack
+- [] Calm down gesture: patches
+- [] Extreme repentance gesture: patches (let him get you to low health after fighting once more)
+- [] Grovel for mercy gesture: patches surrenders the first time
+- [] Bravo gesture: varre sign after killing first demigod
+- [] Strength gesture: stranded graveyard after soldier fo godrick
+- [] Triumphant delight gesture: free alexander at stormhill
+- [] Nod in thought gesture: sellen
+- [] Finger snap gesture: kale after hearing howl in mistwood
+- [] Curtsy: level spirit to +4
+- [] Revential bow: alberich in roundtable
+- [] What do you want gesture: ensha roundtable hold
+- [] Prayer gesture: brother corhyn roundtable hold
+- [] Rapture gesture: two fingers roundtable hold
+- [] Crossed legs gesture: corpse on large debris south of stormhill shack
+- [] Sitting sideways gesture: roderika stormhill shack
